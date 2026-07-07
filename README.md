@@ -77,6 +77,8 @@
 
 **Инструкция:** [`account-manager/INSTRUCTIONS.md`](/home/covex/Calculator/account-manager/INSTRUCTIONS.md)
 
+**Статус:** завершён (2026-07-08). Артефакт: [`account-manager/customer-elicitation.md`](/home/covex/Calculator/account-manager/customer-elicitation.md).
+
 ### 2. Подготовка спецификации требований
 
 **Рабочая директория:** `/home/covex/Calculator/business-analyst`
@@ -88,11 +90,13 @@
 
 **Задача:** ИИ-ассистент (Бизнес-аналитик) на основе `customer-elicitation.md` готовит **спецификацию требований**. Пользователь переносит требования в систему хранения (GitLab Issue) **вручную** или с помощью MCP-сервера `gitlab-ai-helper`. Автоматическое добавление и связывание в GitLab — то ПО, которое пока не готово.
 
-**Вход:** `customer-elicitation.md` из `account-manager/`.
+**Вход:** файл с результатом этапа 1 (`customer-elicitation.md`) — **передаёт Пользователь** Бизнес-аналитику. Исходный PDF Заказчика Бизнес-аналитику **не передаётся**.
 
-**Результат:** спецификация требований (артефакт в `business-analyst/`); требования, добавленные пользователем в GitLab.
+**Результат:** спецификация требований (`requirements-specification.md`); при необходимости — отдельные файлы запросов к Аккаунт-менеджеру (`account-manager-request-001.md`, …), которые Пользователь передаёт Аккаунт-менеджеру; требования, добавленные пользователем в GitLab.
 
-**Инструкция:** TBD — будет подготовлена после принятия работы Аккаунт-менеджера.
+**Петля уточнений:** BA → Пользователь → AM → … (см. [ADR-003](docs/adr/003-stage1-and-business-analyst.md); обработка запросов AM — после первого реального запроса).
+
+**Инструкция:** [`business-analyst/INSTRUCTIONS.md`](/home/covex/Calculator/business-analyst/INSTRUCTIONS.md)
 
 ### 3. Постановка задач для разработчика
 
