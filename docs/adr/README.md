@@ -4,4 +4,5 @@
 
 | ADR | Статус | Тема |
 | --- | --- | --- |
-| [001-analyst-instructions.md](001-analyst-instructions.md) | Принято | Инструкция Аналитика (`analyst/INSTRUCTIONS.md`) |
+| [001-analyst-instructions.md](001-analyst-instructions.md) | Заменён ADR-002 | Инструкция Аналитика (`analyst/INSTRUCTIONS.md`) — история |
+| [002-roles-and-account-manager.md](002-roles-and-account-manager.md) | Принято | Роли, каталоги, этапы 2–3, инструкция Аккаунт-менеджера |
