@@ -9,3 +9,5 @@
 | [003-stage1-and-business-analyst.md](003-stage1-and-business-analyst.md) | Принято | Принятие этапа 1, инструкция BA, запросы `account-manager-request-NNN.md` |
 | [004-am-contradiction-reconciliation.md](004-am-contradiction-reconciliation.md) | Принято | Сверка противоречий AM; инструкция AM обновлена |
 | [005-ba-requirements-vs-decisions.md](005-ba-requirements-vs-decisions.md) | Принято | Граница REQ, эталоны, решения BA; инструкция BA обновлена |
+| [006-product-manager-instructions.md](006-product-manager-instructions.md) | Принято | Инструкция PM: стек, волны задач, `REQ-… #<номер>` |
+| [007-pm-task-trace-roles.md](007-pm-task-trace-roles.md) | Принято | PM: роли ссылок «выполнить»/«не нарушить»; без «вайб-кодер» и v1 |
