@@ -17,3 +17,5 @@
 | [011-ba-proactive-quality-after-verification-run.md](011-ba-proactive-quality-after-verification-run.md) | Принято | Прогон 17/29; смена линии BA → превентивное качество формулировок |
 | [012-ba-appendix-b-storage-refs.md](012-ba-appendix-b-storage-refs.md) | Принято | BA: title Issue `REQ-NNN …`; в теле после переноса отсылки → `#N` |
 | [013-pm-storage-refs.md](013-pm-storage-refs.md) | Принято | PM: title Issue `TASK-NNN …`; в теле после переноса только `#N` |
+| [014-lead-dev-module-recommendations.md](014-lead-dev-module-recommendations.md) | Принято (процесс ИИ / формат `tech-stack.md` заменены ADR-015) | Ведущий: рекомендации модулей; жёсткий низкоуровневый стек; инструкция senior-developer |
+| [015-lead-dev-tech-stack-handoff.md](015-lead-dev-tech-stack-handoff.md) | Принято | ИИ Ведущего: стек из репо Разработчика; краткий `tech-stack.md`; без «убрали»; рекомендации по вопросу |
