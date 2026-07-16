@@ -19,3 +19,4 @@
 | [013-pm-storage-refs.md](013-pm-storage-refs.md) | Принято | PM: title Issue `TASK-NNN …`; в теле после переноса только `#N` |
 | [014-lead-dev-module-recommendations.md](014-lead-dev-module-recommendations.md) | Принято (процесс ИИ / формат `tech-stack.md` заменены ADR-015) | Ведущий: рекомендации модулей; жёсткий низкоуровневый стек; инструкция senior-developer |
 | [015-lead-dev-tech-stack-handoff.md](015-lead-dev-tech-stack-handoff.md) | Принято | ИИ Ведущего: стек из репо Разработчика; краткий `tech-stack.md`; без «убрали»; рекомендации по вопросу |
+| [016-pm-wave-granularity-and-task-links.md](016-pm-wave-granularity-and-task-links.md) | Принято | PM: дробить волну по умолчанию; в тексте задачи ссылки на задачи только «дополняет» |
