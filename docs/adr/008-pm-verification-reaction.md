@@ -4,6 +4,8 @@
 
 Принято, уточняет [ADR-006](006-product-manager-instructions.md) и [ADR-007](007-pm-task-trace-roles.md); правки [`product-manager/INSTRUCTIONS.md`](/home/covex/Calculator/product-manager/INSTRUCTIONS.md) внесены (2026-07-11). Инструкцию Бизнес-аналитика **не** меняем.
 
+**В части «без ужесточения первого черновика под верификатор» заменён [ADR-017](017-pm-proactive-task-quality.md).** Реактивный разбор верификации (только после передачи результата Пользователем; правка только по явному указанию) сохраняет силу.
+
 ## Дата
 
 2026-07-11
