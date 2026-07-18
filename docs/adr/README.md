@@ -24,3 +24,5 @@
 | [018-pm-project-docs-boundary-contracts.md](018-pm-project-docs-boundary-contracts.md) | Принято | PM: `docs/` + индекс; контракты границ; гейт до задач Разработчику; адресат — Ведущий |
 | [019-ba-proactive-requirement-quality.md](019-ba-proactive-requirement-quality.md) | Принято | BA: превентивная проверка качества REQ (4 свойства) на шаге 3; те же свойства на шаге 4 |
 | [020-full-issue-verification-pass.md](020-full-issue-verification-pass.md) | Принято | Полный положительный проход верификации Issue (REQ + задачи); F-010; MR-промпт отложен |
+| [021-stage5-dev-mr-review-pm-handoff.md](021-stage5-dev-mr-review-pm-handoff.md) | Принято (форма инструкции заменена ADR-022) | Этап 5: MR, Code Review Ведущим, сдача PM; видимые недочёты → задача в волне |
+| [022-stage5-cursor-commands-task-adr.md](022-stage5-cursor-commands-task-adr.md) | Принято | Этап 5: Cursor `/task` и `/adr`; ADR продукта с хронологической нумерацией |
