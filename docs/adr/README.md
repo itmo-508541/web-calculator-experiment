@@ -18,11 +18,14 @@
 | [012-ba-appendix-b-storage-refs.md](012-ba-appendix-b-storage-refs.md) | Принято | BA: title Issue `REQ-NNN …`; в теле после переноса отсылки → `#N` |
 | [013-pm-storage-refs.md](013-pm-storage-refs.md) | Принято | PM: title Issue `TASK-NNN …`; в теле после переноса только `#N` |
 | [014-lead-dev-module-recommendations.md](014-lead-dev-module-recommendations.md) | Принято (процесс ИИ / формат `tech-stack.md` заменены ADR-015) | Ведущий: рекомендации модулей; жёсткий низкоуровневый стек; инструкция senior-developer |
-| [015-lead-dev-tech-stack-handoff.md](015-lead-dev-tech-stack-handoff.md) | Принято | ИИ Ведущего: стек из репо Разработчика; краткий `tech-stack.md`; без «убрали»; рекомендации по вопросу |
+| [015-lead-dev-tech-stack-handoff.md](015-lead-dev-tech-stack-handoff.md) | Принято (хранение baseline в эксперименте снято ADR-025) | ИИ Ведущего: стек из репо Разработчика; краткий `tech-stack.md`; без «убрали»; рекомендации по вопросу |
 | [016-pm-wave-granularity-and-task-links.md](016-pm-wave-granularity-and-task-links.md) | Принято | PM: дробить волну по умолчанию; в тексте задачи ссылки на задачи только «дополняет» |
 | [017-pm-proactive-task-quality.md](017-pm-proactive-task-quality.md) | Принято | PM: превентивная проверка качества задач (4 критерия); реактивный шаг сохранён |
 | [018-pm-project-docs-boundary-contracts.md](018-pm-project-docs-boundary-contracts.md) | Принято | PM: `docs/` + индекс; контракты границ; гейт до задач Разработчику; адресат — Ведущий |
 | [019-ba-proactive-requirement-quality.md](019-ba-proactive-requirement-quality.md) | Принято | BA: превентивная проверка качества REQ (4 свойства) на шаге 3; те же свойства на шаге 4 |
 | [020-full-issue-verification-pass.md](020-full-issue-verification-pass.md) | Принято | Полный положительный проход верификации Issue (REQ + задачи); F-010; MR-промпт отложен |
 | [021-stage5-dev-mr-review-pm-handoff.md](021-stage5-dev-mr-review-pm-handoff.md) | Принято (форма инструкции заменена ADR-022) | Этап 5: MR, Code Review Ведущим, сдача PM; видимые недочёты → задача в волне |
-| [022-stage5-cursor-commands-task-adr.md](022-stage5-cursor-commands-task-adr.md) | Принято | Этап 5: Cursor `/task` и `/adr`; ADR продукта с хронологической нумерацией |
+| [022-stage5-cursor-commands-task-adr.md](022-stage5-cursor-commands-task-adr.md) | Принято (locus файлов заменён ADR-023) | Этап 5: Cursor `/task` и `/adr`; ADR продукта с хронологической нумерацией |
+| [023-stage5-commands-live-in-product.md](023-stage5-commands-live-in-product.md) | Принято | Команды этапа 5 только в `developer/.cursor/commands/`; без зеркала в эксперименте |
+| [024-wave1-lead-scaffold-task-mcp.md](024-wave1-lead-scaffold-task-mcp.md) | Принято | Волна 1; Ведущий: сверка каркаса с Issue; `/task`: MCP only, MR руками; F-011 |
+| [025-remove-experiment-baseline-tech-stack.md](025-remove-experiment-baseline-tech-stack.md) | Принято | Удалены baseline `tech-stack.md` и инструкция инвентаризации из эксперимента |
