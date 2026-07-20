@@ -116,7 +116,7 @@
 
 **Вход:** спецификация и таблица соответствий `REQ-…` ↔ `#<номер>` ↔ заголовок; проектная документация в `docs/` (минимум позже — `tech-stack.md`; индекс — `docs/README.md`).
 
-**Результат:** индекс и снимки в `docs/`; план групп (`task-plan.md`); тексты задач (`developer-tasks.md`); таблица соответствий (`tasks-list.md`); задачи в GitLab.
+**Результат:** индекс и снимки в `docs/`; план групп (`task-plan.md`); **реестр задач** (`tasks-list.md`) и тексты в `tasks/TASK-NNN.md`; задачи в GitLab ([ADR-026](docs/adr/026-pm-task-registry-and-stack-in-tasks.md)).
 
 **Инструкция:** [`product-manager/INSTRUCTIONS.md`](/home/covex/Calculator/product-manager/INSTRUCTIONS.md)
 
