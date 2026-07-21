@@ -30,3 +30,4 @@
 | [024-wave1-lead-scaffold-task-mcp.md](024-wave1-lead-scaffold-task-mcp.md) | Принято | Волна 1; Ведущий: сверка каркаса с Issue; `/task`: MCP only, MR руками; F-011 |
 | [025-remove-experiment-baseline-tech-stack.md](025-remove-experiment-baseline-tech-stack.md) | Принято | Удалены baseline `tech-stack.md` и инструкция инвентаризации из эксперимента |
 | [026-pm-task-registry-and-stack-in-tasks.md](026-pm-task-registry-and-stack-in-tasks.md) | Принято | PM: реестр в `tasks-list.md`, тексты в `tasks/`; стек только для рекомендаций модулей |
+| [027-model-choices-and-mr-verification.md](027-model-choices-and-mr-verification.md) | Принято | `gpt-5-mini` в Helper; Grok 4.5 / Composer 2.5; верификация MR работает |
