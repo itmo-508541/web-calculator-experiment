@@ -31,3 +31,4 @@
 | [025-remove-experiment-baseline-tech-stack.md](025-remove-experiment-baseline-tech-stack.md) | Принято | Удалены baseline `tech-stack.md` и инструкция инвентаризации из эксперимента |
 | [026-pm-task-registry-and-stack-in-tasks.md](026-pm-task-registry-and-stack-in-tasks.md) | Принято | PM: реестр в `tasks-list.md`, тексты в `tasks/`; стек только для рекомендаций модулей |
 | [027-model-choices-and-mr-verification.md](027-model-choices-and-mr-verification.md) | Принято | `gpt-5-mini` в Helper; Grok 4.5 / Composer 2.5; верификация MR работает |
+| [028-roles-functions-model-and-assignment.md](028-roles-functions-model-and-assignment.md) | Принято | Модель «Роли и Функции»; Поручение (конверт+тело, FIPA ACL); Координатор; `docs/assignment/` (планы 1/4/5) |
