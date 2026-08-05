@@ -1,6 +1,6 @@
 # Конспект лекции: Инженерия требований
 
-Структурированная версия документа [`requirements-engineering-summary.pdf`](../requirements-engineering-summary.pdf).
+Структурированная версия документа [`requirements-engineering-summary.pdf`](requirements-engineering-summary.pdf).
 
 Источник: конспект лекции по инженерии требований (IEEE 830-1998, IEEE 610.12-1990).
 
